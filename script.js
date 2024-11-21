@@ -18,6 +18,6 @@ modal.classList.add('show');
 
 
 const next = document.querySelector('.next');
-next.setAttribute('value', "index.html");
+next.setAttribute('value', "https://veurret.github.io/deadmeme/contact.html");
 });
 }
